@@ -2,17 +2,6 @@
 🎓 Final Year Computer Science Student  
 💻 Aspiring Full Stack Developer | Python • Django • React  
 
-
-
-
-
-
-## 📊 GitHub Stats
-
-![Gagan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gagan-S-18&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gagan-S-18&layout=compact&theme=tokyonight)
-
 ---
 
 ## 🚀 About Me
