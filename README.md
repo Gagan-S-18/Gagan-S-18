@@ -2,9 +2,6 @@
 🎓 Final Year Computer Science Student  
 💻 Aspiring Full Stack Developer | Python • Django • React  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gagan-S-18&theme=tokyonight)
-
-
 ---
 
 ## 🚀 About Me
