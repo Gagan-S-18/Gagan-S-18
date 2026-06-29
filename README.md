@@ -1,5 +1,5 @@
 # Hi, I'm Gagan 👋  
-🎓 Final Year Computer Science Student  
+🎓 Graduate Computer Science Student  
 💻 Aspiring Full Stack Developer | Python • Django • React  
 
 ---
